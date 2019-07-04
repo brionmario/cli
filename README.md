@@ -1,2 +1,2 @@
-# react-cli
-A command line interface for easy scaffolding of React apps.
+# Frontly-cli
+A univeral command line interface for easy scaffolding of frontend apps.
