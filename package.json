@@ -1,0 +1,29 @@
+{
+  "name": "@frontly/cli",
+  "version": "0.1.0",
+  "description": "Universal command line interface for easy scaffolding of frontend apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brionmario/frontly-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "frontend",
+    "frameworks",
+    "react",
+    "angular",
+    "vue",
+    "scaffolding",
+    "templates"
+  ],
+  "author": "Brion Mario",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brionmario/frontly-cli/issues"
+  },
+  "homepage": "https://github.com/brionmario/frontly-cli#readme"
+}
