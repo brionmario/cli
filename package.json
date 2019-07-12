@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brionmario/frontly-cli.git"
+    "url": "git+https://github.com/frontly/cli.git"
   },
   "keywords": [
     "cli",
@@ -16,14 +16,14 @@
     "frameworks",
     "react",
     "angular",
-    "vue",
+    "vuejs",
     "scaffolding",
     "templates"
   ],
-  "author": "Brion Mario",
+  "author": "Frontly Team",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/brionmario/frontly-cli/issues"
+    "url": "https://github.com/frontly/cli/issues"
   },
-  "homepage": "https://github.com/brionmario/frontly-cli#readme"
+  "homepage": "https://github.com/frontly/cli#readme"
 }
