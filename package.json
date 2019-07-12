@@ -27,6 +27,8 @@
   },
   "homepage": "https://github.com/frontly/cli#readme",
   "devDependencies": {
-    "lerna": "^3.15.0"
+    "@types/node": "^12.6.2",
+    "lerna": "^3.15.0",
+    "typescript": "^3.5.3"
   }
 }
