@@ -192,8 +192,9 @@ The following is the list of supported scopes:
 - **core**
 - **cli**
 - **plugins**
-- **templates**
 - **vcs**
+- **npm**
+- **lerna**
 - **config**
 
 - none/empty string: useful for `style`, `test` and `refactor` changes that are done across all
