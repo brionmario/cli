@@ -140,6 +140,7 @@ Examples:
 | Breaking Changes      | `:boom:`                | :boom:                |
 | Work on Docker        | `:whale:`               | :whale:               |
 | UI Changes            | `:lipstick:`            | :lipstick:            |
+| Work on Lerna         | `:dragon:`              | :dragon:              |
 
 Samples:
 
