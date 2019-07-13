@@ -6,8 +6,11 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log
 
-#packages
+# Package related
 packages/*/lib
+
+# Manifests
+package-lock.json
 
 # Runtime data
 pids
