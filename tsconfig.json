@@ -1,15 +1,35 @@
 {
   "compilerOptions": {
+    /* Basic Options */
+    "target": "es5",
     "module": "commonjs",
+    "lib": ["es6"],
     "declaration": true,
-    "noImplicitAny": false,
     "removeComments": true,
+
+    /* Type-Checking Options */
+    "strict": true,
+    "strictFunctionTypes": true,
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+
+    /* Additional Options */
+    "preserveConstEnums": true,
     "noLib": false,
-    "emitDecoratorMetadata": true,
-    "experimentalDecorators": true,
-    "target": "es6",
+
+    /* Source Map Options */
     "sourceMap": true,
-    "lib": ["es6"]
+
+    /* Experimental Options */
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true
+  },
+  "formatCodeOptions": {
+    "indentSize": 2,
+    "tabSize": 2
   },
   "exclude": ["node_modules", "**/*.spec.ts"]
 }
